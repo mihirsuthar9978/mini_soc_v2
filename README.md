@@ -25,7 +25,7 @@ The project was developed to understand RTL design, modular IP integration, APB 
 ## SoC Architecture/Block diagram
 
 <p align="center">
-<img src="images/block_diagram.png" width="700">
+<img src="images/block_diagram.jpg" width="700">
 </p>
 
 ---
