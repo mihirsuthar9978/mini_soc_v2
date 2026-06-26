@@ -202,7 +202,7 @@ Waveforms
 ### APB Transaction
 
 <p align="center">
-<img src="images/apb_transaction.png">
+<img src="images/apb_transaction_waveform.png">
 </p>
 
 ---
@@ -210,7 +210,7 @@ Waveforms
 ### Complete Mini SoC Simulation
 
 <p align="center">
-<img src="images/soc_tb_waveform.png">
+<img src="images/soc_tb_waveforms.png">
 </p>
 
 ---
